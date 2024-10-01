@@ -1,6 +1,26 @@
 # 💫 About Me:
 * 👋 ¡Hola! Soy Leonardo Alonso
-<br>Soy un estudiante de la carrera de ingenieria en sistemas computacionales apasionado por la tecnología, con una sólida formación en desarrollo de software y experiencia en la creación de aplicaciones en mis proyectos. A lo largo de mi carrera académica y proyectos personales, me he especializado en el desarrollo backend con Java y Spring Boot, y tengo conocimientos en bases de datos relacionales como MySQL y un poco de experiencia en bases de datos NoSQL como MongoDB.<br><br>🌟 ¿Qué hago?<br>Backend Development: Desarrollo APIs REST utilizando Spring Boot y manejo de bases de datos en MySQL y PostgreSQL.<br>Cloud & DevOps: Estoy aprendiendo sobre AWS para el despliegue de aplicaciones en la nube y tengo experiencia básica con Docker y Kubernetes para la contenedorización y orquestación de servicios.<br>Pruebas Automatizadas: Sigo aprendiendo a implementar pruebas automáticas con JUnit y Mockito para mejorar la calidad del software.<br>Microservicios: Estoy muy interesado en las arquitecturas basadas en microservicios y continúo aprendiendo para poder aplicarlas en mis futuros proyectos.<br>🚀 Habilidades Técnicas<br>Lenguajes: Java, JavaScript, SQL, HTML, CSS<br>Frameworks: Spring Boot, Thymeleaf, Tailwind css<br>Bases de Datos: MySQL, PostgreSQL, conocimientos básicos de MongoDB<br>Herramientas: Git, GitHub, GitLab, Docker (básico), Kubernetes (básico), AWS (en aprendizaje), Figma<br>🧑‍💻 ¿Por qué yo?<br>Me considero un aprendiz continuo que siempre busca formas de mejorar y evolucionar en el ámbito tecnológico. Mis proyectos reflejan mi dedicación para crear soluciones eficientes y escalables, manteniéndome siempre enfocado en implementar buenas prácticas de desarrollo y adoptando nuevas tecnologías, como microservicios, que me interesan profundamente.<br><br>🌱 Actualmente<br>Estoy desarrollando un Sistema de Gestión de Bibliotecas como proyecto personal, donde aplico todo lo que he aprendido sobre gestión de roles y permisos, seguridad con Spring Security, y JWT. A la par, continúo aprendiendo sobre AWS, microservicios y pruebas automatizadas con JUnit y Mockito para seguir mejorando mis habilidades.<br><br>📫 ¡Hablemos!<br>Estoy abierto a colaborar en proyectos interesantes o discutir oportunidades laborales. No dudes en contactarme a través de LinkedIn o directamente aquí en GitHub.
+  
+<br>Soy un estudiante de la carrera de ingenieria en sistemas computacionales apasionado por la tecnología, con una sólida formación en desarrollo de software y experiencia en la creación de aplicaciones en mis proyectos. A lo largo de mi carrera académica y proyectos personales, me he especializado en el desarrollo backend con Java y Spring Boot, y tengo conocimientos en bases de datos relacionales como MySQL y un poco de experiencia en bases de datos NoSQL como MongoDB.<br><br>
+
+* 🌟 ¿Qué hago?
+  
+<br>Backend Development: Desarrollo APIs REST utilizando Spring Boot y manejo de bases de datos en MySQL y PostgreSQL.<br>Cloud & DevOps: Estoy aprendiendo sobre AWS para el despliegue de aplicaciones en la nube y tengo experiencia básica con Docker y Kubernetes para la contenedorización y orquestación de servicios.<br>Pruebas Automatizadas: Sigo aprendiendo a implementar pruebas automáticas con JUnit y Mockito para mejorar la calidad del software.<br>Microservicios: Estoy muy interesado en las arquitecturas basadas en microservicios y continúo aprendiendo para poder aplicarlas en mis futuros proyectos.<br>
+
+* 🚀 Habilidades Técnicas
+
+<br>Lenguajes: Java, JavaScript, SQL, HTML, CSS<br>Frameworks: Spring Boot, Thymeleaf, Tailwind css<br>Bases de Datos: MySQL, PostgreSQL, conocimientos básicos de MongoDB<br>Herramientas: Git, GitHub, GitLab, Docker (básico), Kubernetes (básico), AWS (en aprendizaje), Figma<br>
+
+* 🧑‍💻 ¿Por qué yo?
+
+<br>Me considero un aprendiz continuo que siempre busca formas de mejorar y evolucionar en el ámbito tecnológico. Mis proyectos reflejan mi dedicación para crear soluciones eficientes y escalables, manteniéndome siempre enfocado en implementar buenas prácticas de desarrollo y adoptando nuevas tecnologías, como microservicios, que me interesan profundamente.<br><br>
+
+* 🌱 Actualmente
+
+<br>Estoy desarrollando un Sistema de Gestión de Bibliotecas como proyecto personal, donde aplico todo lo que he aprendido sobre gestión de roles y permisos, seguridad con Spring Security, y JWT. A la par, continúo aprendiendo sobre AWS, microservicios y pruebas automatizadas con JUnit y Mockito para seguir mejorando mis habilidades.<br><br>
+
+* 📫 ¡Hablemos!
+<br>Estoy abierto a colaborar en proyectos interesantes o discutir oportunidades laborales. No dudes en contactarme a través de LinkedIn o directamente aquí en GitHub.
 
 
 ## 🌐 Socials:
